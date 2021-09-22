@@ -1,5 +1,5 @@
 # DeFi
-A list of papers on decentr.
+A list of papers on decentralized finance (DeFi).
 
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
 - [CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157)
