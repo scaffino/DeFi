@@ -3,7 +3,6 @@ A list of papers on decentralized finance (DeFi).
 
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
 - [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
-- [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://arxiv.org/pdf/2103.12732.pdf)
 - [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://berkeley-defi.github.io/assets/material/DEX%20with%20AMM%20Protocols.pdf)
 - [CeFi vs. DeFi -- Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157)
 - [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/pdf/2003.03810.pdf)
