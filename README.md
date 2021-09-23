@@ -16,3 +16,4 @@ A list of papers on decentralized finance (DeFi).
 - [The Blockchain Oracle Problem in Decentralized Finance - A Multivocal Approach](https://www.preprints.org/manuscript/202107.0231/v1)
 - [Decentralized Finance: On Blockchain - and Smart Contract-Based Financial Markets](https://berkeley-defi.github.io/assets/material/Fabian-Schar-decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets.pdf)
 - [SoK: Decentralized Exchanges (DEX) with Automated Market Maker (AMM) protocols](https://berkeley-defi.github.io/assets/material/DEX%20with%20AMM%20Protocols.pdf)
+- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
